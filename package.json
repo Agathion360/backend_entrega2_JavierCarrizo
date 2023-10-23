@@ -1,0 +1,13 @@
+{
+  "name": "trabajo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ProductManager.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Javier Carrizo <carrizo38@gmail.com>",
+  "license": "ISC"
+}
